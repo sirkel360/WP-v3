@@ -1,0 +1,7 @@
+run = "npm run dev"
+
+[env]
+PORT = "5173"
+
+[interpreter]
+command = ["node"]
